@@ -1,4 +1,4 @@
-### Hi there 👋
+## Progress
 
 ![Alkedama's Streak Stats](https://streak-stats.demolab.com/?user=Alkedama&theme=onedark)
 ![Alkedama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alkedama&show_icons=true&theme=onedark)
